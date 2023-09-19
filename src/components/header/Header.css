@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+}
+.navbar-menu ul{
+display: flex;
+
+}
+.navbar-menu li {
+    list-style: none;
+}

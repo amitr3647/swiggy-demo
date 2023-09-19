@@ -1,0 +1,14 @@
+.body  {
+padding: 1rem 2rem;
+}
+.body-top{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin: 0 auto;
+}
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
